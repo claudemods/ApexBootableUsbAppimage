@@ -21,7 +21,7 @@
 
 <div align="center">
 	
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexTools?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexBootableUsbAppimage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexBootableUsbAppimage/releases/tag/v1.0-12-02-2025)
 <div align = center>
 
 
