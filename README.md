@@ -43,10 +43,6 @@ Apex Bootable Usb Creator AppImage
 	<div align="center">
 
 
-![Screenshot_archlinux_2025-02-11_23:04:59](https://github.com/user-attachments/assets/997f7566-751d-4a59-9ce7-3e3307ece762)
-![2025-02-09-045823_hyprshot](https://github.com/user-attachments/assets/dc0b615e-5486-449c-9fb4-323bf3b0045a)
-![2025-02-09-045841_hyprshot](https://github.com/user-attachments/assets/832065d6-521b-4fe7-aae0-a5ec77ce5d09)
-![2025-02-09-045902_hyprshot](https://github.com/user-attachments/assets/d0e36519-0836-4974-a1d9-3531f461f551)
 
 
 <div align="center">
