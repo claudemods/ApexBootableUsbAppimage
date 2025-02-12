@@ -63,5 +63,6 @@ Apex Bootable Usb Creator AppImage
 
 ![2025-02-12-101712_hyprshot](https://github.com/user-attachments/assets/890ffb83-201b-4189-b4fc-73afb40a9dd3)
 ![2025-02-12-102933_hyprshot](https://github.com/user-attachments/assets/df1a2f2c-7de4-4b3b-a485-11c499bd5ce4)
-
+![debian](https://github.com/user-attachments/assets/3fbef370-34f6-4f0b-a618-0e9615b84449)
+![oracular](https://github.com/user-attachments/assets/ab091404-b856-4fba-9b52-16d8ea698d61)
 
